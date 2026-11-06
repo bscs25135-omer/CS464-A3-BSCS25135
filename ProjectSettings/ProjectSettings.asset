@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: b857a9536852f97daa3dff8f7e3c3c59
+  productGUID: 68dae17d7b6343ab49729fc8f406883a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: ITU-CS-464-LAB-06-BSCS25135
+  productName: ITU-CS-464-LAB-05-BSCS25135
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -850,14 +850,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: ITU-CS-464-LAB-06-BSCS25135
+  metroPackageName: ITU-CS-464-LAB-05-BSCS25135
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: ITU-CS-464-LAB-06-BSCS25135
+  metroApplicationDescription: ITU-CS-464-LAB-05-BSCS25135
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -928,10 +928,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: f5d6e729-4bba-4252-847b-268ad84e1f10
+  cloudProjectId: 707e7acd-9f25-46a8-9734-7275dcbac728
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: ITU-CS-464-LAB-06-BSCS25135
+  projectName: ITU-CS-464-LAB-05-BSCS25135
   organizationId: omerabdullah626
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
