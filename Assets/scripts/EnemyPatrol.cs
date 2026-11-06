@@ -13,6 +13,7 @@ public class EnemyPatrol : MonoBehaviour
     void Update()
     {
         if (Time.time < waitUntil) return;
+        if (points == null || points.Length == 0) return;
         Vector3 target = points[index].position;
         Vector3 toTarget = target - transform.position;
         transform.position = Vector3.MoveTowards(transform.position, target, speed * Time.deltaTime);
