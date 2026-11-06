@@ -175,7 +175,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyGuard
   patrol: {fileID: 0}
-  chaseSpeed: 3.5
+  chaseSpeed: 4.2
   turnSpeed: 360
   sightRange: 6
   sightAngle: 120
